@@ -1,0 +1,10 @@
+1. Rice
+2. Oil
+3. Suger
+4. Soap
+5. Perfume
+6. Cold Drinks
+7. Fish
+8. Chicken
+9. Banana
+10.Egg
